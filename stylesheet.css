@@ -1,4 +1,12 @@
 #title {
-    color: red;
+    color: rgb(255, 72, 0);
+    text-align: center;
+}
+
+#rocket {
+    font-size: 30px;
+}
+
+pre {
     text-align: center;
 }
