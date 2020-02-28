@@ -10,3 +10,12 @@
 pre {
     text-align: center;
 }
+
+#nasa {
+    color: red;
+    text-decoration: underline;
+}
+
+#intro {
+    text-align: center;
+}
