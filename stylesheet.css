@@ -16,6 +16,11 @@ pre {
     text-decoration: underline;
 }
 
+a {
+    color: red;
+    text-decoration: none;
+}
+
 #intro {
     text-align: center;
 }
