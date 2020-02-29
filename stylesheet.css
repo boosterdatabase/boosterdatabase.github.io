@@ -24,3 +24,8 @@ a {
 #intro {
     text-align: center;
 }
+
+pre a {
+    color: red;
+    text-decoration: none;
+}
